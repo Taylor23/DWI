@@ -1,0 +1,13 @@
+#border {
+	background-color: #632432;
+	font-family: Arial;
+	border-collapse: collapse;
+	width: 100%
+}
+
+#table {
+	background-color: white;
+	text-align: left;
+	border-collapse: collapse;
+	width: 100;
+}

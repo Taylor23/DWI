@@ -1,0 +1,44 @@
+body {
+	background-color: #59D6EC;
+}
+
+p {
+	font-size: 30px;
+}
+
+#titulo {
+	font-size: 40px;
+	font-family: Century;
+	color: blue;
+}
+
+#men {
+	background: #2C84AF;
+	color: #FFFFFF;
+	height: 140px;
+	position: relative;
+	padding: 20px;
+	border-radius: 10px;
+	border-top: solid 1px #96D0F7;
+	border-bottom: solid 1px #0C3459;
+}
+
+#menu {
+	height: 62px;
+	right: 40px;
+	line-height: 62px;
+	top: 79px;
+	position: absolute;
+}
+
+/*#menu ul li.m{
+    background: #56AFD8 url(images/img04.jpg) top left no-repeat;
+    border-top: solid 1px #82D9ED;
+    border-bottom: solid 1px #24627C;
+    border-radius: 5px;    
+}*/
+#menu ul li {
+	padding: 10px 15px 10px 15px;
+	display: inline;
+	text-shadow: 0 1px 1px #0e3e68;
+}
